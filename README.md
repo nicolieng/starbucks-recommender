@@ -10,20 +10,20 @@
 ## 🚀 How to Run
 Clone the repo:
 
-bash
+'''bash
 Copy
 Edit
 git clone https://github.com/your-username/starbucks-recommender.git
 cd starbucks-recommender
 Install dependencies:
 
-bash
+'''bash
 Copy
 Edit
 pip install -r requirements.txt
 Run the program:
 
-bash
+'''bash
 Copy
 Edit
 python main.py
