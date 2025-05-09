@@ -9,13 +9,12 @@
 
 ## 🚀 How to Run
 Clone the repo:
-
-'''
+```
 git clone https://github.com/your-username/starbucks-recommender.git
-'''
+```
 
 
 Running the program:
-'''
+```
 python main.py
-'''
+```
