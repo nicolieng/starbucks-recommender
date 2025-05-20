@@ -16,7 +16,7 @@ git clone https://github.com/your-username/starbucks-recommender.git
 cd starbucks-recommender
 ```
 
-Populate the ```.env``` file with the following data
+Populate the ```.env``` file with the your own API key like below
 
 ```
 OPENAI_API_KEY=
