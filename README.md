@@ -5,7 +5,7 @@ A data science project that recommends Starbucks beverages based on user prefere
 
 ## Tech Stack
 - Python
-- pandas, numpy, scikit-learn, OpenAI (gpt-4o)
+- pandas, numpy, scikit-learn, KNN, OpenAI (gpt-4o)
 - CLI-based user input
 - Modular design with src/ folder structure
 
